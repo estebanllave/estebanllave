@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <div style="text-align:center; font-family: Arial, sans-serif;">
 
   
-  <p>Desarrollador con experiencia en múltiples lenguajes y tecnologías.</p>
 
   <p align="center">Desarrollador con experiencia en múltiples lenguajes y tecnologías.</p>
 
