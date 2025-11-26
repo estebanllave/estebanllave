@@ -38,8 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 
-    <span style="display:inline-block; margin:5px; padding:5px 10px; background:#ff9900; border-radius:5px; color:white;">AWS</span>
-  </p>
+   
 
 </div>
 
