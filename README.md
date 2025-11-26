@@ -1,4 +1,4 @@
-## Hi there 👋 Soy Esteban Llave un developer!
+## Hi there 👋 Soy Esteban Llave!
 
 <!--
 **estebanllave/estebanllave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
