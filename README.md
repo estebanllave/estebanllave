@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div style="text-align:center; font-family: Arial, sans-serif;">
 
-  <h1>Hola, soy Esteban 👋</h1>
+  
   <p>Desarrollador con experiencia en múltiples lenguajes y tecnologías.</p>
 
   <h2>Lenguajes de programación</h2>
